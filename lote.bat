@@ -126,3 +126,105 @@ python Carrasco_David\llamado24.py 18.5 5
 python Carrasco_David\llamado25.py 25.4 14.5
 python Carrasco_David\llamado25.py 20 10
 python Carrasco_David\llamado25.py 15 5
+
+
+python Castillo/Ejercicio26.py 4
+python Castillo/Ejercicio26.py 20
+python Castillo/Ejercicio26.py 15
+
+python Castillo/Ejercicio27.py 25 10
+python Castillo/Ejercicio27.py 21 15
+python Castillo/Ejercicio27.py 16 35
+
+python Castillo/Ejercicio28.py 40
+python Castillo/Ejercicio28.py 17
+python Castillo/Ejercicio28.py 51
+
+python Castillo/Ejercicio29.py 80 2
+python Castillo/Ejercicio29.py 95 5
+python Castillo/Ejercicio29.py 108 18
+
+python Castillo/Ejercicio30.py 64 8
+python Castillo/Ejercicio30.py 81 27
+python Castillo/Ejercicio30.py 150 15
+
+python Castillo/Ejercicio31.py 40 20
+python Castillo/Ejercicio31.py 100 42
+python Castillo/Ejercicio31.py 15 30
+
+python Castillo/Ejercicio32.py 52 20
+python Castillo/Ejercicio32.py 80 2
+python Castillo/Ejercicio32.py 40 5
+
+python Castillo/Ejercicio33.py 20 10 5
+python Castillo/Ejercicio33.py 50 10 15
+python Castillo/Ejercicio33.py 40 25 8
+
+python Castillo/Ejercicio34.py 15 18 10
+python Castillo/Ejercicio34.py 20 13 14
+python Castillo/Ejercicio34.py 16 7 15
+
+python Castillo/Ejercicio35.py "Juan"
+python Castillo/Ejercicio35.py "Jose"
+python Castillo/Ejercicio35.py "Magdalena"
+
+python Castillo/Ejercicio36.py 40 15
+python Castillo/Ejercicio36.py 30 12
+python Castillo/Ejercicio36.py 80 20
+
+python Castillo/Ejercicio37.py 30 15 5
+python Castillo/Ejercicio37.py 40 15 2
+python Castillo/Ejercicio37.py 50 30 4
+
+python Castillo/Ejercicio38.py 14
+python Castillo/Ejercicio38.py 12
+python Castillo/Ejercicio38.py 25
+
+python Castillo/Ejercicio39.py 20 4
+python Castillo/Ejercicio39.py 30 5
+python Castillo/Ejercicio39.py 15 7
+
+python Castillo/Ejercicio40.py 30 12
+python Castillo/Ejercicio40.py 40 15
+python Castillo/Ejercicio40.py 78 30
+
+python Castillo/Ejercicio41.py 1.20 65
+python Castillo/Ejercicio41.py 1.65 70
+python Castillo/Ejercicio41.py 1.70 85
+
+python Castillo/Ejercicio42.py 14 2
+python Castillo/Ejercicio42.py 20 10
+python Castillo/Ejercicio42.py 15 60
+
+python Castillo/Ejercicio43.py 16 5
+python Castillo/Ejercicio43.py 25 10
+python Castillo/Ejercicio43.py 9 15
+
+python Castillo/Ejercicio44.py 10 5 6
+python Castillo/Ejercicio44.py 15 4 2
+python Castillo/Ejercicio44.py 20 15 6
+
+python Castillo/Ejercicio45.py 12 18 4
+python Castillo/Ejercicio45.py 20 14 8
+python Castillo/Ejercicio45.py 30 12 5
+
+python Castillo/Ejercicio46.py 225 42
+python Castillo/Ejercicio46.py 81 30
+python Castillo/Ejercicio46.py 64 20
+
+python Castillo/Ejercicio47.py 17
+python Castillo/Ejercicio47.py 25
+python Castillo/Ejercicio47.py 30
+
+python Castillo/Ejercicio48.py 5 16
+python Castillo/Ejercicio48.py 8 20
+python Castillo/Ejercicio48.py 15 50
+
+python Castillo/Ejercicio49.py 14
+python Castillo/Ejercicio49.py 5
+python Castillo/Ejercicio49.py 20
+
+python Castillo/Ejercicio50.py 5 12
+python Castillo/Ejercicio50.py 10 25
+python Castillo/Ejercicio50.py 9 30
+
